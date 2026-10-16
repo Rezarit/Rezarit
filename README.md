@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Rezarit&layout=compact&langs_count=8&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=Rezarit&layout=compact&langs_count=8&theme=dracula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Rezarit&layout=compact&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Rezarit&layout=compact&langs_count=8&theme=dark)
